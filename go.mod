@@ -3,7 +3,7 @@ module crd.tools
 go 1.26.4
 
 require (
-	crd.tools/crd v0.0.2
+	crd.tools/crd v0.0.3
 	github.com/mantyr/app v1.0.1
 	github.com/mantyr/formatter v1.0.1
 	github.com/mantyr/starter v0.2.0
