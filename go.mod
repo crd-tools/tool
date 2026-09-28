@@ -3,6 +3,7 @@ module crd.tools
 go 1.26.4
 
 require (
+	crd.tools/crd v0.0.2
 	github.com/mantyr/app v1.0.1
 	github.com/mantyr/formatter v1.0.1
 	github.com/mantyr/starter v0.2.0
@@ -20,7 +21,6 @@ require (
 
 require (
 	cel.dev/expr v0.25.1 // indirect
-	crd.tools/crd v0.0.2 // indirect
 	github.com/BurntSushi/toml v1.5.0 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
